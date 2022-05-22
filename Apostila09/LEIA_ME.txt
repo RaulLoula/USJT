@@ -1,0 +1,5 @@
+ATENÇÃO
+
+O projeto é o mesmo da apostila 08 com o CRUD da entidade Cursos.
+Esse acréscimo corresponde a apostila 09
+
